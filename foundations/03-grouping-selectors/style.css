@@ -1,0 +1,16 @@
+/*Third exercise*/
+
+.first {
+    background-color: #000;
+    color: #ffffff;
+}
+
+.second {
+    background-color: #ffff00;
+}
+
+.first,
+.second {
+    font-size: 28px;
+    font: Helvetica, "Times New Roman", sans-serif;
+}
